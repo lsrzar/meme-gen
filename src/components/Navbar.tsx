@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../assets/logo.svg';
-import './styles/Navbar.css';
+import './styles/Navbar.scss';
 
 const Navbar: React.FC = () => {
   return (
