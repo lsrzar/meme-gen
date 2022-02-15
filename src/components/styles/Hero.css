@@ -1,0 +1,28 @@
+.Hero {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  padding-top: 36px;
+  gap: 17px;
+}
+
+#outlined-basic {
+  width: 230px;
+  height: 35px;
+  padding: 10px;
+}
+
+#button-meme-img {
+  background-color: rgb(255, 208, 21);
+  color: #222222;
+  margin-top: 15px;
+  width: 480px;
+  font-family: 'Nunito', sans-serif;
+  text-transform: none;
+  font-weight: bold;
+}
+
+#button-meme-img:hover {
+  background-color: #222222;
+  color: white;
+}
